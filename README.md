@@ -20,3 +20,7 @@ How To Use DFU Tool To Upgrade Your ReSpeaker Microphone Array Firmware
 4.	Click Start.
 
 5.	Wait for the tool prints successful information.
+
+### DFU details:
+Please refer to XMOS official document:	
+[XMOS DFU loader](https://www.xmos.com/support/boards?version=latest&product=14772&component=14441&page=5)
