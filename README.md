@@ -2,7 +2,7 @@ How To Use DFU Tool To Upgrade Your ReSpeaker Microphone Array Firmware
 =======================================================================
 
 ### Requirements:
-+ ReSpeaker Microphone Array Driver for Windows.
++ ReSpeaker Microphone Array Driver for Windows. [Click here](https://github.com/Fuhua-Chen/ReSpeaker_Microphone_Array_Driver)
 + New Firmware document (.bin file).
 
 ### Procedure:
