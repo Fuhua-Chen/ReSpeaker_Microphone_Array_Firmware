@@ -38,7 +38,7 @@ According to users' feedback, noise supression is not work well and cannot recog
 core. The parameters have been changed and are closed to XMOS official parameters. But the distance will shorter
 than previous.
 
-20170324 pre release  
+20170329 pre release  
 xvsm version: 0x032  
 raw  version: 0x082  
 
